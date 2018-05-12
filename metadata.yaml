@@ -32,6 +32,8 @@ creator:
     - http://en.wikipedia.org/wiki/Ramalho_Ortigão
     - http://pt.wikipedia.org/wiki/Ramalho_Ortigão
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13630#As-Farpas--Chronica-Mensal-da-Politica-das-Letras-e-dos-Costumes--1882-06-07-
 gutenberg_bookshelf: PT Política e Sociedade
 gutenberg_issued: '2004-10-06'
 gutenberg_type: Text
