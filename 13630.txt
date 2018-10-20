@@ -13,7 +13,7 @@ Author: Eca de Queiroz and Ramalho Ortigao
 
 Release Date: October 6, 2004 [EBook #13630]
 
-Language: Portugese
+Language:  Portuguese
 
 Character set encoding: ASCII
 
